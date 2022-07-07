@@ -1,1 +1,5 @@
 /.venv
+data/sample_submission.csv
+.gitignore
+data/test.csv
+data/train.csv
