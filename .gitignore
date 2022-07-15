@@ -1,2 +1,4 @@
 /.venv
 *.svg
+/gender_detect
+/gender-detect-master
